@@ -1,4 +1,3 @@
-![CA-2021](CTFHTB.PNG)
 
 CTF - Cyber Apocalypse 2021 - HackTheBox
 
